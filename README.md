@@ -22,6 +22,10 @@ Upon launch, the application displays a custom splash screen with a custom anima
 The authorization screen allows the user to sign in with an existing account, to sign in with Facebook, or to create an account. <br /> 
 <br /> 
 
+<p align="center">
+  <img src="https://github.com/wbrown22/mobile-auth/blob/master/demo/Account_Login.gif" width="320px" height="600px" />
+</p> 
+<br /> 
 
 
 **Sign Up Screen**
