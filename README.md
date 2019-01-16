@@ -27,10 +27,8 @@ The authorization screen allows the user to sign in with an existing account, to
 **Sign Up Screen**
 The sign up screen allows the user to create a new account and sign in with said account. Makes user confirm password before creating account. <br /><br /> 
 
-<p align="center">
 Sign up Success             |  Sign up Failure
 :--------------------------:|:--------------------------:
 ![](https://github.com/wbrown22/mobile-auth/blob/master/demo/Account_Create_Success.gif)  |  ![](https://github.com/wbrown22/mobile-auth/blob/master/demo/Create_Account_Fail.gif)
-</p>
 
 
