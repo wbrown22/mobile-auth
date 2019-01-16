@@ -35,4 +35,6 @@ Sign up Success             |  Sign up Failure
 :--------------------------:|:--------------------------:
 ![](https://github.com/wbrown22/mobile-auth/blob/master/demo/Account_Create_Success.gif)  |  ![](https://github.com/wbrown22/mobile-auth/blob/master/demo/Create_Account_Fail.gif)
 
-
+Improvements
+---
+* smooth transition from account login to rest of application
